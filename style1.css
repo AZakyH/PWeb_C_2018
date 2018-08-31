@@ -1,0 +1,32 @@
+body {
+	background-color: #00BAC7;
+}
+
+h1 {
+	text-align: center;
+}
+
+h3 {
+	text-align: center;
+}
+
+p {
+	font-size: 12pt;
+	line-height: 150%;
+	padding:10px;
+	background-color: rgba(242,242,242,0.8);
+}
+
+.menu {
+	text-align: center;
+	background-color: #EDF3F3;
+    font-family: "Calibri";
+    font-size:18px;
+    padding-top: 15pt;
+}
+
+.button {
+	background-color: #e5e5e5;
+	padding: 10px;
+	border-color: black;
+}
