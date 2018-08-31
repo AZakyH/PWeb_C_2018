@@ -1,6 +1,9 @@
 body {
+	background-color: black;
 	background-image: url("outclass.jpg");
-	/*background-size: cover;*/
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: 50% 50%;
 	/*background-color:#00BAC7;*/
 }
 
